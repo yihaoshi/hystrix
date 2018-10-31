@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="microservice-consumer-order-feign-hystrix-fallback" />
+        <module name="microservice-consumer-order-feign-hystrix-fallback-stream" />
+        <module name="microservice-consumer-order-ribbon-hystrix-fallback" />
+        <module name="microservice-eureka-server" />
+        <module name="microservice-hystrix-dashboard" />
+        <module name="microservice-hystrix-turbine" />
+        <module name="microservice-provider-user" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="microservice-consumer-order-feign-hystrix-fallback" target="1.8" />
+      <module name="microservice-consumer-order-feign-hystrix-fallback-stream" target="1.8" />
+      <module name="microservice-consumer-order-ribbon-hystrix-fallback" target="1.8" />
+      <module name="microservice-eureka-server" target="1.8" />
+      <module name="microservice-hystrix-dashboard" target="1.8" />
+      <module name="microservice-hystrix-turbine" target="1.8" />
+      <module name="microservice-provider-user" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

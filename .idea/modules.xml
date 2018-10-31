@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/hystrix-sample.iml" filepath="$PROJECT_DIR$/.idea/hystrix-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-consumer-order-feign-hystrix-fallback/microservice-consumer-order-feign-hystrix-fallback.iml" filepath="$PROJECT_DIR$/ms-consumer-order-feign-hystrix-fallback/microservice-consumer-order-feign-hystrix-fallback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-consumer-order-feign-hystrix-fallback-stream/microservice-consumer-order-feign-hystrix-fallback-stream.iml" filepath="$PROJECT_DIR$/ms-consumer-order-feign-hystrix-fallback-stream/microservice-consumer-order-feign-hystrix-fallback-stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-consumer-order-ribbon-hystrix-fallback/microservice-consumer-order-ribbon-hystrix-fallback.iml" filepath="$PROJECT_DIR$/ms-consumer-order-ribbon-hystrix-fallback/microservice-consumer-order-ribbon-hystrix-fallback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-eureka-server/microservice-eureka-server.iml" filepath="$PROJECT_DIR$/ms-eureka-server/microservice-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-hystrix-dashboard/microservice-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/ms-hystrix-dashboard/microservice-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-hystrix-turbine/microservice-hystrix-turbine.iml" filepath="$PROJECT_DIR$/ms-hystrix-turbine/microservice-hystrix-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-provider-user/microservice-provider-user.iml" filepath="$PROJECT_DIR$/ms-provider-user/microservice-provider-user.iml" />
+    </modules>
+  </component>
+</project>
